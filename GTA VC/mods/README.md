@@ -1,10 +1,10 @@
 # GTA Vice City Meme Mod
-# ======================
 
-While learning Game Hacking, I thought to checkout GTA Vice City.
-There's nothing so special about it, this mod is similar to other
-mods you might've come accross. I just scratched first layer of 
-Game hacking, i still have to learn a lot.
+
+  While learning Game Hacking, I thought to checkout GTA Vice City.
+  There's nothing so special about it, this mod is similar to other
+  mods you might've come accross. I just scratched first layer of 
+  Game hacking, i still have to learn a lot.
 
 
 ## Installing:
