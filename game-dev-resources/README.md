@@ -10,6 +10,11 @@
 ### Tuts :
    * Win2D C# : https://www.youtube.com/watch?v=YtxHU5LWwTE&list=PLNVD5azsNYNsCp5WYZiZlbg0MXvVAmsd1
    * AirSim : https://youtu.be/1oY8Qu5maQQ
-
+   * NES Programming : https://www.youtube.com/playlist?list=PL29OkqO3wUxyF9BsTAgZkmCEVtC77rgff
+ 
 ### Sample Games Examples
    * Game Developed using Win2D in C++ https://github.com/coopp/Harry
+
+### MISC :
+   * NES Programming Guide http://wiki.nesdev.com/w/index.php/Programming_guide
+   
