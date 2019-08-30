@@ -25,4 +25,7 @@
 ### MISC :
    * NES Programming Guide http://wiki.nesdev.com/w/index.php/Programming_guide
    * 6502 Assembly Programming https://skilldrick.github.io/easy6502/
-   
+   * https://pagedout.institute/download/PagedOut_001_beta1.pdf
+   * https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+   * NES Emulator in C++ https://github.com/yizhang82/neschan
+   * NES Emulator : https://bisqwit.iki.fi/jutut/kuvat/programming_examples/nesemu1/
